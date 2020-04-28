@@ -19,7 +19,7 @@ body
 header
 {
     color: purple;
-    font-size: 4.5rem;
+    font-size: 4rem;
     margin-top: auto;
     margin-left: auto;
     margin-right: auto;
@@ -45,14 +45,14 @@ table
 ol
 {
     color: darkmagenta;
-    font-size: 2 rem;
+    font-size: 2rem;
     margin-left: 2%;
 }
 
 li
 {
     color:indigo;
-    font-size: 0.75rem;
+    font-size: 1.25rem;
     margin-left: 8.5%;
 }
 
@@ -83,7 +83,7 @@ p
 {
     color:black;
     margin-left: 1%;
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 a
 {
@@ -93,6 +93,6 @@ a
 footer
 {
     color:mediumorchid;
-    font-size:0.75rem;
+    font: size 1.25rem;
     margin: 1.2rem;
 }
