@@ -16,7 +16,7 @@ body
 header
 {
     color: purple;
-    font-size: 7rem;
+    font-size: 5rem;
     margin-top: auto;
     margin-left: 25%;
     margin-right: 75%;
@@ -65,7 +65,11 @@ li
 }
 .fondo
 {
-    background-image: image(".png");
+    background-image: image("moto_kitsune.png");
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-bottom: auto;
 }
 .ejemplo
 {
