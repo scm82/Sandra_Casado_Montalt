@@ -7,11 +7,14 @@ body
 {
     color:black;
     background-color: whitesmoke;
+    background-image: url("lavanda.png");
+    background-attachment: fixed;
     margin-top: 5%;
     margin-right: 1%;
     margin-bottom: 10%;
     margin-left: 1%;
     font-family:'SunnyCloudy-One', sans-serif;
+
 }
 header
 {
@@ -25,7 +28,7 @@ header
 h1
 {
     color: blueviolet;
-    font-size: 2.5rem ;
+    font-size: 3rem ;
 
 }
 section 
@@ -42,7 +45,7 @@ table
 ol
 {
     color: darkmagenta;
-    font-size: 1rem;
+    font-size: 2 rem;
     margin-left: 2%;
 }
 
@@ -63,14 +66,7 @@ li
     margin: 0.1rem;
     color:purple;
 }
-.fondo
-{
-    background-image: image("moto_kitsune.png");
-    margin-top: auto;
-    margin-left: auto;
-    margin-bottom: auto;
-    margin-bottom: auto;
-}
+
 .ejemplo
 {
     color:black;
@@ -87,6 +83,7 @@ p
 {
     color:black;
     margin-left: 1%;
+    font-size: 2.5rem;
 }
 a
 {
