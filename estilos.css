@@ -16,10 +16,10 @@ body
 header
 {
     color: purple;
-    font-size: 4.5rem;
+    font-size: 7rem;
     margin-top: auto;
     margin-left: 25%;
-    margin-right: 25%;
+    margin-right: 75%;
     margin-bottom: auto;
 }
 h1
@@ -30,25 +30,25 @@ h1
 }
 section 
 {
-    color:lavenderblush;
+    color:darkorchid;
     font-size: 2rem ;  
 }
 table
 {
-    border-color:red;
+    border-color:darkviolet;
     color:black;
     background-color: lightpink;
 }
 ol
 {
-    color: plum;
+    color: darkmagenta;
     font-size: 1rem;
     margin-left: 2%;
 }
 
 li
 {
-    color:lightskyblue;
+    color:indigo;
     font-size: 0.75rem;
     margin-left: 8.5%;
 }
@@ -91,7 +91,7 @@ a
 }
 footer
 {
-    color:lavenderblush;
+    color:mediumorchid;
     font-size:0.75rem;
     margin: 1.2rem;
 }
